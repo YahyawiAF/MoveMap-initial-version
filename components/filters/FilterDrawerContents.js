@@ -86,6 +86,17 @@ const FilterDrawerContents = ({rentOrBuyKey}) => {
           />
         </Box>
       </FilterGroup>
+      <FilterGroup title="Canabis legality" >
+      <Box >
+          <Box>
+            <Box>
+              <DropDownSingleselect
+                data={consts.filters.canabis}
+              />
+            </Box>
+          </Box>
+        </Box>
+      </FilterGroup>
       <FilterGroup title="Demographics & Amenities" >
         <Box >
           <SwitchFilter data={consts.filters.metro} />

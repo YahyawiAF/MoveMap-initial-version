@@ -207,6 +207,52 @@ const filters = Object.freeze({
       '1_hour',
     ]
   },
+  canabis: {
+    urlKey: 'canabis',
+    csvKey: dbFields.distanceToMountains,
+    friendlyName: 'Canabis',
+    compareMode: compareModes.singleChoice,
+    iconKey: 'SmokingRooms',
+    format: metricFormats.STRING,
+    options: {
+      'medicalLegal':
+        {
+          value: 'Legal for medical use',
+          name: 'Legal for medical use',
+          csvValues: ['Less than 1 hour']
+        },
+      'recreationalLegal': 
+        {
+          value: 'Legal for recreational use',
+          name: 'Legal for recreational use',
+          csvValues: ['Less than 1 hour', '1-3 hours']
+        },
+        'Illegal': 
+        {
+          value: 'Illegal',
+          name: 'Illegal',
+          csvValues: ['Less than 1 hour', '1-3 hours']
+        },
+        'IllegalDecriminalized': 
+        {
+          value: 'Illegal & Decriminalized',
+          name: 'Illegal & Decriminalized',
+          csvValues: ['Less than 1 hour', '1-3 hours']
+        },
+      [allOption.value]: 
+        {
+          value: allOption.value,
+          name: 'No preference',
+        }
+    },
+    optionsOrder: [
+      [allOption.value],
+      'medicalLegal',
+      'recreationalLegal',
+      "Illegal",
+      "IllegalDecriminalized"
+    ]
+  },
   coast: {
     urlKey: 'isCoastal',
     csvKey: dbFields.distanceToCoast,

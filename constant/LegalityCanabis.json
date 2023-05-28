@@ -1,0 +1,282 @@
+[
+    {
+      "State": "ALABAMA",
+      "Territory Abbreviation": "AL",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "ALASKA",
+      "Territory Abbreviation": "AK",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "AMERICAN SAMOA",
+      "Territory Abbreviation": "AS",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "ARIZONA",
+      "Territory Abbreviation": "AZ",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "ARKANSAS",
+      "Territory Abbreviation": "AR",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "CALIFORNIA",
+      "Territory Abbreviation": "CA",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "COLORADO",
+      "Territory Abbreviation": "CO",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "CONNECTICUT",
+      "Territory Abbreviation": "CT",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "DELAWARE",
+      "Territory Abbreviation": "DE",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "DISTRICT OF COLUMBIA",
+      "Territory Abbreviation": "DC",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "FLORIDA",
+      "Territory Abbreviation": "FL",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "GEORGIA",
+      "Territory Abbreviation": "GA",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "GUAM",
+      "Territory Abbreviation": "GU",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "HAWAII",
+      "Territory Abbreviation": "HI",
+      "Legality": "Legal for medical use & Decriminalized"
+    },
+    {
+      "State": "IDAHO",
+      "Territory Abbreviation": "ID",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "ILLINOIS",
+      "Territory Abbreviation": "IL",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "INDIANA",
+      "Territory Abbreviation": "IN",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "IOWA",
+      "Territory Abbreviation": "IA",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "KANSAS",
+      "Territory Abbreviation": "KS",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "KENTUCKY",
+      "Territory Abbreviation": "KY",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "LOUISIANA",
+      "Territory Abbreviation": "LA",
+      "Legality": "Legal for medical use & Decriminalized"
+    },
+    {
+      "State": "MAINE",
+      "Territory Abbreviation": "ME",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "MARYLAND",
+      "Territory Abbreviation": "MD",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "MASSACHUSETTS",
+      "Territory Abbreviation": "MA",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "MICHIGAN",
+      "Territory Abbreviation": "MI",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "MINNESOTA",
+      "Territory Abbreviation": "MN",
+      "Legality": "Legal for medical use & Decriminalized"
+    },
+    {
+      "State": "MISSISSIPPI",
+      "Territory Abbreviation": "MS",
+      "Legality": "Legal for medical use & Decriminalized"
+    },
+    {
+      "State": "MISSOURI",
+      "Territory Abbreviation": "MO",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "MONTANA",
+      "Territory Abbreviation": "MT",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "NEBRASKA",
+      "Territory Abbreviation": "NE",
+      "Legality": "Illegal & Decriminalized"
+    },
+    {
+      "State": "NEVADA",
+      "Territory Abbreviation": "NV",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "NEW HAMPSHIRE",
+      "Territory Abbreviation": "NH",
+      "Legality": "Legal for medical use & Decriminalized"
+    },
+    {
+      "State": "NEW JERSEY",
+      "Territory Abbreviation": "NJ",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "NEW MEXICO",
+      "Territory Abbreviation": "NM",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "NEW YORK",
+      "Territory Abbreviation": "NY",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "NORTH CAROLINA",
+      "Territory Abbreviation": "NC",
+      "Legality": "Illegal & Decriminalized"
+    },
+    {
+      "State": "NORTH DAKOTA",
+      "Territory Abbreviation": "ND",
+      "Legality": "Legal for medical use & Decriminalized"
+    },
+    {
+      "State": "NORTHERN MARIANA IS",
+      "Territory Abbreviation": "MP",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "OHIO",
+      "Territory Abbreviation": "OH",
+      "Legality": "Legal for medical use & Decriminalized"
+    },
+    {
+      "State": "OKLAHOMA",
+      "Territory Abbreviation": "OK",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "OREGON",
+      "Territory Abbreviation": "OR",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "PENNSYLVANIA",
+      "Territory Abbreviation": "PA",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "PUERTO RICO",
+      "Territory Abbreviation": "PR",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "RHODE ISLAND",
+      "Territory Abbreviation": "RI",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "SOUTH CAROLINA",
+      "Territory Abbreviation": "SC",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "SOUTH DAKOTA",
+      "Territory Abbreviation": "SD",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "TENNESSEE",
+      "Territory Abbreviation": "TN",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "TEXAS",
+      "Territory Abbreviation": "TX",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "UTAH",
+      "Territory Abbreviation": "UT",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "VERMONT",
+      "Territory Abbreviation": "VT",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "VIRGINIA",
+      "Territory Abbreviation": "VA",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "VIRGIN ISLANDS",
+      "Territory Abbreviation": "VI",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "WASHINGTON",
+      "Territory Abbreviation": "WA",
+      "Legality": "Legal for recreational use"
+    },
+    {
+      "State": "WEST VIRGINIA",
+      "Territory Abbreviation": "WV",
+      "Legality": "Legal for medical use"
+    },
+    {
+      "State": "WISCONSIN",
+      "Territory Abbreviation": "WI",
+      "Legality": "Illegal"
+    },
+    {
+      "State": "WYOMING",
+      "Territory Abbreviation": "WY",
+      "Legality": "Illegal"
+    }
+  ]
