@@ -1,0 +1,46 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "getDb": "amazon-linux-extras install -y epel && yum install -y git-lfs && git lfs install && git lfs pull",
+    "generatePrisma": "prisma generate"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.2",
+    "@material-ui/data-grid": "^4.0.0-alpha.37",
+    "@material-ui/icons": "^4.11.2",
+    "@nivo/bar": "^0.74.0",
+    "@nivo/core": "^0.74.0",
+    "@nivo/line": "^0.74.0",
+    "@nivo/scatterplot": "^0.74.0",
+    "@prisma/client": "^3.2.1",
+    "@sentry/nextjs": "^6.10.0",
+    "@types/node": "^15.14.1",
+    "axios": "^0.24.0",
+    "canvg": "^4.0.0",
+    "csv-parse": "^4.16.0",
+    "d3": "^7.0.0",
+    "leaflet": "^1.7.1",
+    "next": "^10.0.0",
+    "next-transpile-modules": "^8.0.0",
+    "nivo": "^0.31.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-ga": "^3.3.0",
+    "react-leaflet": "^3.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-simple-maps": "^2.3.0",
+    "react-tooltip": "^4.2.21",
+    "topojson-client": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^7.0.0",
+    "@types/leaflet": "^1.7.5",
+    "prisma": "^3.2.1",
+    "typescript": "^4.4.3"
+  }
+}
